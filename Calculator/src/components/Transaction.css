@@ -1,0 +1,17 @@
+.tran{
+    list-style-type:none;
+    padding: 0px;
+    margin-bottom: 10px;
+    
+}
+.tran li{
+    background-color: white;
+    box-shadow: 0 1px 3px black;
+    padding: 3px;
+    margin: 5px;
+    display:flex;
+    justify-content: space-between;
+    
+    
+    
+}
